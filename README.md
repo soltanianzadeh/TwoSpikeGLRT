@@ -1,5 +1,6 @@
 # TwoSpikeGLRT
 Please cite this paper if you use any component of this software: S. Soltanian-Zadeh, Y. Gong, and S. Farsiu, "Information-Theoretic Approach and Fundamental Limits of Resolving Two Closely-Timed Neuronal Spikes in Mouse Brain Calcium Imaging," IEEE Transactions on Biomedical Engineering, 2018. DOI: 10.1109/TBME.2018.2812078.
+
 Released under a GPL v2 license.
 
 # Notes
